@@ -5,6 +5,7 @@
         {
           "tingkat": "Provinsi",
           "name": "Banten",
+          "title": "PDRB Per Kapita Provinsi Banten",
           "tahun": [
             {
               "2010": 25.4,
@@ -19,6 +20,7 @@
         {
           "tingkat": "Negara",
           "name": "Indonesia",
+          "title": "PDRB Per Kapita Negara Indonesia",
           "tahun": [
             {
               "2010": 28.8,

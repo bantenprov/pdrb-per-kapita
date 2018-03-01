@@ -5,6 +5,8 @@
         {
           "tingkat": "Kebupaten",
           "name": "Pandeglang",
+          "title":"PDRB Per Kapita Kabupaten Pandeglang",
+          "index":"PDRB Per Kapita Kab.Pandeglang",
           "tahun": [
             {
               "2010": 10.6,
@@ -19,6 +21,8 @@
         {
           "tingkat": "Kebupaten",
           "name": "Lebak",
+          "title":"PDRB Per Kapita Kabupaten Lebak",
+          "index":"PDRB Per Kapita Kab.Lebak",
           "tahun": [
             {
               "2010": 10.4,
@@ -33,6 +37,8 @@
         {
           "tingkat": "Kebupaten",
           "name": "Tangerang",
+          "title":"PDRB Per Kapita Kabupaten Tangerang",
+          "index":"PDRB Per Kapita Kab.Tangerang",
           "tahun": [
             {
               "2010": 20.4,
@@ -47,6 +53,8 @@
         {
           "tingkat": "Kebupaten",
           "name": "Serang",
+          "title":"PDRB Per Kapita Kabupaten Serang",
+          "index":"PDRB Per Kapita Kab.Serang",
           "tahun": [
             {
               "2010": 24.0,
@@ -61,6 +69,8 @@
         {
           "tingkat": "Kota",
           "name": "Tangerang",
+          "title":"PDRB Per Kapita Kota Tangerang",
+          "index":"PDRB Per Kapita Kota Tangerang",
           "tahun": [
             {
               "2010": 37.0,
@@ -75,6 +85,8 @@
         {
           "tingkat": "Kota",
           "name": "Cilegon",
+          "title":"PDRB Per Kapita Kota Cilegon",
+          "index":"PDRB Per Kapita Kota Cilegon",
           "tahun": [
             {
               "2010": 118.7,
@@ -89,6 +101,8 @@
         {
           "tingkat": "Kota",
           "name": "Serang",
+          "title":"PDRB Per Kapita Kota Serang",
+          "index":"PDRB Per Kapita Kota Serang",
           "tahun": [
             {
               "2010": 21.6,
@@ -103,6 +117,8 @@
         {
           "tingkat": "Kota",
           "name": "Tangerang Selatan",
+          "title":"PDRB Per Kapita Kabupaten Tangerang Selatan",
+          "index":"PDRB Per Kapita Tangerang Selatan",
           "tahun": [
             {
               "2010": 23.5,
