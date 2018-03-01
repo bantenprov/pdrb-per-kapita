@@ -168,7 +168,7 @@ export default {
         this.bar.xAxis.data[index] = data.wilayah + ' ' + data.name
         this.bar.series[0].data[index].name   = data.wilayah + ' ' + data.name
         this.bar.series[0].data[index].value  = data.data
-        this.bar.title.text = 'Tahun ' + Object.keys(datas[0])[0]
+        this.bar.title.text = 'PDRB Per Kapita Tahun  ' + Object.keys(datas[0])[0]
       })
 
       var i = 1;
@@ -178,7 +178,7 @@ export default {
         Object.values(datas[0])[i].forEach((data, index) => {
           this.bar.series[0].data[index].name   = data.wilayah + ' ' + data.name
           this.bar.series[0].data[index].value  = data.data
-          this.bar.title.text = 'Tahun ' + Object.keys(datas[0])[i]
+          this.bar.title.text = 'PDRB Per Kapita Tahun ' + Object.keys(datas[0])[i]
         });
 
         i++;
